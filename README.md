@@ -30,4 +30,10 @@ git push origin master
 git log
 ```
 
+## How to pull in remote changes
+
+```
+git pull
+```
+
 TA-DA!! (koo)
