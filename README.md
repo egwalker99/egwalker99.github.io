@@ -24,4 +24,10 @@ git commit -am "my message (write something)"
 git push origin master
 ```
 
+## What's the log
+
+```
+git log
+```
+
 TA-DA!! (koo)
