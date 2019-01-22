@@ -1,78 +1,38 @@
 <!DOCTYPE html>
-<html dir="ltr" lang="english">
+<html lang="en">
   <head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <title>contents</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="initial-scale=1.0">
+    <title>hallucinogenic yak </title>
+    <link href="borrowed.css" rel="stylesheet" media="screen">
   </head>
   <body>
-    <p>this site was created whilst snacking on sardines and crackers. <br>
-      do not expect anything fancy. </p>
-    <table>
-      <tbody>
-        <tr>
-          <td>table of table of contents</td>
-        </tr>
-        <tr>
-          <td>. </td>
-          <td><a href="text.html#1"></a><br>
-          </td>
-        </tr>
-        <tr>
-          <td>. </td>
-          <td><a href="text.html#1"></a><br>
-          </td>
-        </tr>
-        <tr>
-          <td>. </td>
-          <td><a href="text.html#1"></a><br>
-          </td>
-        </tr>
-        <tr>
-          <td>. </td>
-          <td><a href="text.html#1"></a><br>
-          </td>
-        </tr>
-        <tr>
-          <td>. </td>
-          <td><a href="text.html#1"></a><br>
-          </td>
-        </tr>
-        <tr>
-          <td>. </td>
-          <td><a href="text.html#1"></a><br>
-          </td>
-        </tr>
-        <tr>
-          <td>. </td>
-          <td><a href="text.html#1"></a><br>
-          </td>
-        </tr>
-        <tr>
-          <td>. </td>
-          <td><a href="text.html#1"></a><br>
-          </td>
-        </tr>
-        <tr>
-          <td>. </td>
-          <td><a href="text.html#1"></a><br>
-          </td>
-        </tr>
-        <tr>
-          <td>. </td>
-          <td><a href="text.html#1"></a><br>
-          </td>
-        </tr>
-        <tr>
-          <td>. </td>
-          <td><a href="text.html#1"></a><br>
-          </td>
-        </tr>
-        <tr>
-          <td>. </td>
-          <td><a href="text.html#1"></a><br>
-          </td>
-        </tr>
-      </tbody>
-    </table>
+    <header>
+      <div class="links"> <a href="/">⌂</a> &nbsp;&nbsp; <a href="index.html">some
+          words</a> &nbsp;&nbsp; <a target="blank" href="https://www.flickr.com/photos/funnyfarm99/albums/72157623464954606">some
+          pictures</a>&nbsp;&nbsp; <a target="blank" href="https://soundcloud.com/lizawalker/tracks">some
+          music</a> &nbsp;&nbsp; </div>
+    </header>
+    <main class="items">
+      <div class="item">
+        <div class="info"> <span class="tags"> <a href="/tag/subject/">link to
+              nowhere</a> </span> <span class="author"> </span> </div>
+        <div class="knotesy markdown">
+          <h3>you have reached <br>
+            hallucinogenic yak<br>
+          </h3>
+          <p>this repository was created in january of 2019 <br>
+            whilst snacking on delicious sardines and crackers. <br>
+            <br>
+            you are one of very few who will ever see it.<br>
+            <br>
+            do not expect anything fancy.<br>
+            <br>
+            it's one of the least fancy things on the internet. </p>
+          <p><br>
+          </p>
+        </div>
+      </div>
+    </main>
   </body>
 </html>

@@ -9,7 +9,7 @@
   <body>
     <header>
       <div class="links"> <a href="/">⌂</a> &nbsp;&nbsp; <a href="index.html">some
-          words</a> &nbsp;&nbsp; <a target="blank" href="https://www.flickr.com/photos/funnyfarm99/albums/72157623464954606">some
+          words</a> &nbsp;&nbsp; <a href="pictures.html">some
           pictures</a>&nbsp;&nbsp; <a target="blank" href="https://soundcloud.com/lizawalker/tracks">some
           music</a> &nbsp;&nbsp; </div>
     </header>
