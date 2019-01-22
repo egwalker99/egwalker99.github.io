@@ -8,9 +8,10 @@
   </head>
   <body>
     <header>
-      <div class="links"> <a href="/">⌂</a> &nbsp;&nbsp; <a href="/words/">some
-          words</a> &nbsp;&nbsp; <a href="/drawings/">some pictures</a>&nbsp;&nbsp;
-        <a href="/music/">some music</a> &nbsp;&nbsp; </div>
+      <div class="links"> <a href="/">⌂</a> &nbsp;&nbsp; <a href="index.html">some
+          words</a> &nbsp;&nbsp; <a target="blank" href="https://www.flickr.com/photos/funnyfarm99/albums/72157623464954606">some
+          pictures</a>&nbsp;&nbsp; <a target="blank" href="https://soundcloud.com/lizawalker/tracks">some
+          music</a> &nbsp;&nbsp; </div>
     </header>
     <main class="items">
       <div class="item">

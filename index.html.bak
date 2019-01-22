@@ -2,28 +2,77 @@
 <html dir="ltr" lang="english">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <title></title>
+    <title>contents</title>
   </head>
   <body>
-    <p>this site was created whilst snacking on sardines and crackers.
-      
-    <br>do not expect anything fancy.
-    </p>
-    
+    <p>this site was created whilst snacking on sardines and crackers. <br>
+      do not expect anything fancy. </p>
     <table>
-      <tr><td>table of table of contents</td></tr>
-      <tr><td>. </td><td><a href="text.html#1"></a></td></tr>
-      <tr><td>. </td><td><a href="text.html#1"></a></td></tr>
-      <tr><td>. </td><td><a href="text.html#1"></a></td></tr>
-      <tr><td>. </td><td><a href="text.html#1"></a></td></tr>
-      <tr><td>. </td><td><a href="text.html#1"></a></td></tr>
-      <tr><td>. </td><td><a href="text.html#1"></a></td></tr>
-      <tr><td>. </td><td><a href="text.html#1"></a></td></tr>
-      <tr><td>. </td><td><a href="text.html#1"></a></td></tr>
-      <tr><td>. </td><td><a href="text.html#1"></a></td></tr>
-      <tr><td>. </td><td><a href="text.html#1"></a></td></tr>
-      <tr><td>. </td><td><a href="text.html#1"></a></td></tr>
-      <tr><td>. </td><td><a href="text.html#1"></a></td></tr>
+      <tbody>
+        <tr>
+          <td>table of table of contents</td>
+        </tr>
+        <tr>
+          <td>. </td>
+          <td><a href="text.html#1"></a><br>
+          </td>
+        </tr>
+        <tr>
+          <td>. </td>
+          <td><a href="text.html#1"></a><br>
+          </td>
+        </tr>
+        <tr>
+          <td>. </td>
+          <td><a href="text.html#1"></a><br>
+          </td>
+        </tr>
+        <tr>
+          <td>. </td>
+          <td><a href="text.html#1"></a><br>
+          </td>
+        </tr>
+        <tr>
+          <td>. </td>
+          <td><a href="text.html#1"></a><br>
+          </td>
+        </tr>
+        <tr>
+          <td>. </td>
+          <td><a href="text.html#1"></a><br>
+          </td>
+        </tr>
+        <tr>
+          <td>. </td>
+          <td><a href="text.html#1"></a><br>
+          </td>
+        </tr>
+        <tr>
+          <td>. </td>
+          <td><a href="text.html#1"></a><br>
+          </td>
+        </tr>
+        <tr>
+          <td>. </td>
+          <td><a href="text.html#1"></a><br>
+          </td>
+        </tr>
+        <tr>
+          <td>. </td>
+          <td><a href="text.html#1"></a><br>
+          </td>
+        </tr>
+        <tr>
+          <td>. </td>
+          <td><a href="text.html#1"></a><br>
+          </td>
+        </tr>
+        <tr>
+          <td>. </td>
+          <td><a href="text.html#1"></a><br>
+          </td>
+        </tr>
+      </tbody>
     </table>
   </body>
 </html>
