@@ -8,9 +8,9 @@
   </head>
   <body>
     <header>
-      <div class="links"> <a href="/">⌂</a> &nbsp;&nbsp; <a href="words.html">some
-          words</a> &nbsp;&nbsp; <a target="blank" href="https://www.flickr.com/photos/funnyfarm99/albums/72157623464954606">some
-          pictures</a>&nbsp;&nbsp; <a target="blank" href="https://soundcloud.com/lizawalker/tracks">some
+      <div class="links"> <a href="/">⌂</a> &nbsp;&nbsp; <a href="/words/words-01.html">some
+          words</a> &nbsp;&nbsp; <a href="/pictures/pictures.html">some pictures</a>&nbsp;&nbsp;
+        <a target="blank" href="https://soundcloud.com/lizawalker/tracks">some
           music</a> &nbsp;&nbsp; </div>
     </header>
     <main class="items">
@@ -21,8 +21,10 @@
           <h3>you have reached <br>
             hallucinogenic yak<br>
           </h3>
-          <p>this repository was created in january of 2019 <br>
+          <p>this repository of fragments and peculiar tales <br>
+            was created in january of 2019 <br>
             whilst snacking on delicious sardines and crackers. <br>
+            it will be added to on occasion.<br>
             <br>
             you are one of very few who will ever see it.<br>
             <br>
