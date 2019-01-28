@@ -15,8 +15,8 @@
     </header>
     <main class="items">
       <div class="item">
-        <div class="info">&nbsp; <span class="tags"> <a href="/words/words-02.html">page 1</a> 
-          &nbsp &nbsp <a href="/words/words-01.html">page 2</a> </span></div>
+        <div class="info">&nbsp; <span class="tags"> <a href="/words/words-02.html">page
+              1</a> &nbsp; &nbsp; <a href="/words/words-01.html">page 2</a> </span></div>
         <div class="knotesy markdown">
           <h3>the least fancy thing<br>
           </h3>
@@ -611,5 +611,6 @@
     videos[i].setAttribute("controls", "controls='true'");
     }
   </script>
+    
   </body>
 </html>
