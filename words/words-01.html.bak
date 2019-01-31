@@ -16,8 +16,10 @@
     <main class="items">
       <div class="item">
         <div class="info">&nbsp; <span class="tags"> <a href="/words/words-02.html">page
-              1</a> &nbsp; &nbsp; <a href="/words/words-01.html">page 2</a> </span>
-          <span class="author"> </span> </div>
+              1</a> &nbsp; &nbsp; <a href="/words/words-01.html">page 2</a>
+            &nbsp; &nbsp; <a href="/words/shorts.html">some very short things</a>
+            &nbsp; &nbsp; <a href="/words/histories.html">fragments from
+              history</a> </span></div>
         <div class="knotesy markdown">
           <h3>encounters<br>
           </h3>
@@ -555,7 +557,7 @@ pleased
             the queen, no longer boasting, 'there used to be dozens of frogs in
             the royal frog pool, so many, he collected them.&nbsp; Not as big as
             those.&nbsp; But somehow they’ve all gone.&nbsp; The king so enjoyed
-            them when he was still with us,&nbsp; Before he…. well, I can’t
+            them when he was still with us.&nbsp; Before he…. well, I can’t
             imagine what’s become of them, of any of them.'<br>
             <br>
             The weary traveller straightened and sighed heavily.</p>
@@ -631,8 +633,8 @@ pleased
       <nav class="pagination">
         <ul>
           <li> <span class="wee"> page 2 of 2 </span> </li>
-          <li> <a href="/index.html" class="btn smooth btn-sm"> there is
-              no more. </a> </li>
+          <li> <a href="/index.html" class="btn smooth btn-sm"> there is no
+              more. </a> </li>
         </ul>
       </nav>
     </main>
